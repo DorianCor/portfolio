@@ -10,10 +10,10 @@
     "client": "Client",
     "year": 2025,
     "images": [
-      "public\\projet_chine_et_renove\\Logo svg\\LogoAtelierBlanc.svg",
-      "public\\projet_chine_et_renove\\Logo svg\\LogoAtelierNoir.svg",
-      "public\\projet_chine_et_renove\\Logo svg\\LogoAtelierCouleur.svg",
-      "public\\projet_chine_et_renove\\Business_Card_Mockup.png"
+      "..\\..\\public\\projet_chine_et_renove\\Logo svg\\LogoAtelierBlanc.svg",
+      "..\\..\\public\\projet_chine_et_renove\\Logo svg\\LogoAtelierNoir.svg",
+      "..\\..\\public\\projet_chine_et_renove\\Logo svg\\LogoAtelierCouleur.svg",
+      "..\\..\\public\\projet_chine_et_renove\\Business_Card_Mockup.png"
     ],
     "links": {
       "facebook": "https://www.facebook.com/photo?fbid=122142801620740554&set=a.122105365082740554"
