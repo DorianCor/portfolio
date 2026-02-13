@@ -35,7 +35,7 @@ const router = createRouter({
 })
 
 router.afterEach((to) => {
-  const pageTitle = to.meta?.title ? `${to.meta.title} | Creadox` : 'Creadox'
+  const pageTitle = to.meta?.title ? `${to.meta.title} | Portfolio` : 'Portfolio'
   document.title = pageTitle
 })
 
