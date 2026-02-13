@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Logo Atelier Chine & Rénove",
+    "slug": "Logo Atelier Chine & Rénove",
+    "shortDescription": "Creation d'un logo pour une entreprise de rénovation de meubles.",
+    "description": "Conception d'un logo unique et mémorable pour Atelier Chine & Rénove, reflétant son expertise en rénovation de meubles avec une touche caligraphique qui lui était propre. Le logo devait avoir à la fois des feuilles de sauges et une typographie manuscrite pour rappeler l'artisanat et la nature.",
+    "technologies": ["Illustrator", "Photoshop"],
+    "role": "Creation de logo",
+    "client": "Client",
+    "year": 2025,
+    "images": [
+      "public\\projet_chine_et_renove\\Logo svg\\LogoAtelierBlanc.svg",
+      "public\\projet_chine_et_renove\\Logo svg\\LogoAtelierNoir.svg",
+      "public\\projet_chine_et_renove\\Logo svg\\LogoAtelierCouleur.svg",
+      "public\\projet_chine_et_renove\\Business_Card_Mockup.png"
+    ],
+    "links": {
+      "facebook": "https://www.facebook.com/photo?fbid=122142801620740554&set=a.122105365082740554"
+    },
+    "featured": true
+  },
+
+  {
+    "id": 2,
+    "title": "Boutique en ligne de vente de services web design",
+    "slug": "Boutique en ligne de vente de services web design",
+    "shortDescription": "Création d'une boutique en ligne pour la vente de services web design.",
+    "description": "Développement d'une boutique en ligne complète pour une entreprise (fictive) spécialisée dans les services web design. Le site comprend un catalogue de services, un système de paiement sécurisé et une interface utilisateur intuitive.",
+    "technologies": ["WordPress", "Divi", "WooCommerce"],
+    "role": "Développement front-end",
+    "client": "Moi-même",
+    "year": 2026,
+    "images": [
+      "public\\ProjetCMS2\\ProjetCMS2_Creadox_Accueil.png",
+      "public\\ProjetCMS2\\ProjetCMS2_Creadox_Contact.png",
+      "public\\ProjetCMS2\\ProjetCMS2_Creadox_Boutique.png"
+    ],
+    "links": {
+      "SiteWeb": "dodococo.be/CMS2_REMAKE/wordpress/"
+    },
+    "featured": true
+  },
+
+  {
+    "id": 3,
+    "title": "Creation logo Creadox & personnel",
+    "slug": "Creation logo Creadox & personnel",
+    "shortDescription": "Création d'un logo pour l'entreprise Creadox et pour mon usage personnel.",
+    "description": "Conception d'un logo unique et mémorable pour Creadox, une entreprise spécialisée (fictive) dans les services web design. Le logo devait refléter l'innovation et la créativité de l'entreprise. J'ai réutilisé ce logo pour mon usage personnel, les initiales étant les mêmes que celles de mon prénom et nom, ce qui lui confère une double signification et une identité forte.",
+    "technologies": ["Illustrator", "Photoshop"],
+    "role": "Création de logo",
+    "client": "Moi-même",
+    "year": 2025,
+    "images": [
+      "public\\LogoCreadox\\LogoBl - CREADOX.svg",
+      "public\\LogoCreadox\\LogoNB - CREADOX.svg",
+      "public\\LogoCreadox\\LogoComplet_BL.svg",
+      "public\\LogoCreadox\\LogoComplet.svg"
+    ],
+    "links": {
+      "SiteWeb": "dodococo.be/CMS2_REMAKE/wordpress/"
+    },
+    "featured": true
+  }
+]
