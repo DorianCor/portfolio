@@ -28,7 +28,7 @@ import { RouterLink } from 'vue-router'
             <section class="mb-17 group relative overflow-hidden rounded-3xl p-8 backdrop-blur-md bg-linear-to-br from-cyan-900/20 to-blue-900/20 border border-cyan-500/20 hover:border-cyan-500/50 transition-all duration-500 hover:shadow-2xl hover:shadow-cyan-500/20">
                 <div class="absolute -top-32 -right-32 w-96 h-96 bg-cyan-400/5 rounded-full blur-3xl group-hover:bg-cyan-400/10 transition-all duration-500"></div>
                 <div class="absolute -bottom-32 -left-32 w-80 h-80 bg-blue-400/5 rounded-full blur-3xl"></div>
-                
+
                 <div class="relative z-10">
                     <div class="flex items-start gap-4 mb-6">
                         <div class="w-3 h-14 bg-linear-to-b from-cyan-400 to-blue-600 rounded-full blur-sm"></div>
@@ -48,7 +48,7 @@ import { RouterLink } from 'vue-router'
                             to="/projects"
                             class="inline-flex items-center gap-2 px-8 py-3 rounded-xl bg-linear-to-r from-cyan-600 to-blue-600
                                          text-white font-semibold
-                                         hover:from-cyan-500 hover:to-blue-500 
+                                         hover:from-cyan-500 hover:to-blue-500
                                          transition-all duration-300 transform hover:scale-110 hover:shadow-xl hover:shadow-cyan-500/40"
                         >
                             Voir tous les projets
@@ -61,7 +61,7 @@ import { RouterLink } from 'vue-router'
             <!-- SECTION À PROPOS -->
             <section class="mb-17 group relative overflow-hidden rounded-3xl p-8 backdrop-blur-md bg-linear-to-br from-purple-900/20 to-pink-900/20 border border-purple-500/20 hover:border-purple-500/50 transition-all duration-500 hover:shadow-2xl hover:shadow-purple-500/20">
                 <div class="absolute -bottom-40 -left-40 w-96 h-96 bg-purple-400/5 rounded-full blur-3xl group-hover:bg-purple-400/10 transition-all duration-500"></div>
-                
+
                 <div class="relative z-10">
                     <div class="flex items-start gap-4 mb-6">
                         <div class="w-3 h-14 bg-linear-to-b from-purple-400 to-pink-600 rounded-full blur-sm"></div>
@@ -73,7 +73,7 @@ import { RouterLink } from 'vue-router'
 
                     <p class="text-slate-300 leading-relaxed max-w-1xl mb-8 ml-6">
                         Passionné par le design et l'innovation, je crée des expériences numériques captivantes.
-                        Mon parcours m'a permis de développer une expertise unique en combinant creativity et rigueur technique.
+                        Mon parcours m'a permis de développer une expertise unique en combinant creativité et rigueur technique.
                     </p>
 
                     <div class="ml-6 flex justify-end">
@@ -81,7 +81,7 @@ import { RouterLink } from 'vue-router'
                             to="/about"
                             class="inline-flex items-center gap-2 px-8 py-3 rounded-xl bg-linear-to-r from-purple-600 to-pink-600
                                          text-white font-semibold
-                                         hover:from-purple-500 hover:to-pink-500 
+                                         hover:from-purple-500 hover:to-pink-500
                                          transition-all duration-300 transform hover:scale-110 hover:shadow-xl hover:shadow-purple-500/40"
                         >
                             En savoir plus
@@ -94,7 +94,7 @@ import { RouterLink } from 'vue-router'
             <!-- SECTION CONTACT -->
             <section class="group relative overflow-hidden rounded-3xl p-8 backdrop-blur-md bg-linear-to-br from-orange-900/20 to-red-900/20 border border-orange-500/20 hover:border-orange-500/50 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/20">
                 <div class="absolute -top-40 -right-40 w-96 h-96 bg-orange-400/5 rounded-full blur-3xl group-hover:bg-orange-400/10 transition-all duration-500"></div>
-                
+
                 <div class="relative z-10">
                     <div class="flex items-start gap-4 mb-6">
                         <div class="w-3 h-14 bg-linear-to-b from-orange-400 to-red-600 rounded-full blur-sm"></div>
@@ -114,7 +114,7 @@ import { RouterLink } from 'vue-router'
                             to="/contact"
                             class="inline-flex items-center gap-2 px-8 py-3 rounded-xl bg-linear-to-r from-orange-600 to-red-600
                                          text-white font-semibold
-                                         hover:from-orange-500 hover:to-red-500 
+                                         hover:from-orange-500 hover:to-red-500
                                          transition-all duration-300 transform hover:scale-110 hover:shadow-xl hover:shadow-orange-500/40"
                         >
                             Me contacter maintenant

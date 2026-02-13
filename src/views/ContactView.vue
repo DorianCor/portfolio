@@ -78,9 +78,9 @@ async function submitContact() {
         <p class="inline-flex rounded-full border border-cyan-400/30 bg-cyan-500/10 px-4 py-2 text-xs uppercase tracking-[0.22em] text-cyan-200">
           Contact
         </p>
-        <h1 class="mt-4 text-4xl font-bold text-slate-100 md:text-5xl">Parlons de ton projet</h1>
+        <h1 class="mt-4 text-4xl font-bold text-slate-100 md:text-5xl">Parlons de votre projet</h1>
         <p class="mt-3 max-w-3xl text-slate-300">
-          Tu peux m'envoyer les grandes lignes de ton besoin, ton timing et tes objectifs. Je te repondrai
+          Vous pouvez m'envoyer les grandes lignes de vos besoins, vos timing et vos objectifs. Je vous repondrai
           avec une proposition claire et concrete.
         </p>
       </header>
