@@ -10,10 +10,10 @@
     "client": "Client",
     "year": 2025,
     "images": [
-      "..\\..\\public\\projet_chine_et_renove\\Logo svg\\LogoAtelierBlanc.svg",
-      "..\\..\\public\\projet_chine_et_renove\\Logo svg\\LogoAtelierNoir.svg",
-      "..\\..\\public\\projet_chine_et_renove\\Logo svg\\LogoAtelierCouleur.svg",
-      "..\\..\\public\\projet_chine_et_renove\\Business_Card_Mockup.png"
+      "/projet_chine_et_renove/Logo svg/LogoAtelierBlanc.svg",
+      "/projet_chine_et_renove/Logo svg/LogoAtelierNoir.svg",
+      "/projet_chine_et_renove/Logo svg/LogoAtelierCouleur.svg",
+      "/projet_chine_et_renove/Business_Card_Mockup.png"
     ],
     "links": {
       "facebook": "https://www.facebook.com/photo?fbid=122142801620740554&set=a.122105365082740554"
@@ -32,9 +32,9 @@
     "client": "Moi-même",
     "year": 2026,
     "images": [
-      "public\\ProjetCMS2\\ProjetCMS2_Creadox_Accueil.png",
-      "public\\ProjetCMS2\\ProjetCMS2_Creadox_Contact.png",
-      "public\\ProjetCMS2\\ProjetCMS2_Creadox_Boutique.png"
+      "/ProjetCMS2/ProjetCMS2_Creadox_Accueil.png",
+      "/ProjetCMS2/ProjetCMS2_Creadox_Contact.png",
+      "/ProjetCMS2/ProjetCMS2_Creadox_Boutique.png"
     ],
     "links": {
       "SiteWeb": "dodococo.be/CMS2_REMAKE/wordpress/"
@@ -53,10 +53,10 @@
     "client": "Moi-même",
     "year": 2025,
     "images": [
-      "public\\LogoCreadox\\LogoBl - CREADOX.svg",
-      "public\\LogoCreadox\\LogoNB - CREADOX.svg",
-      "public\\LogoCreadox\\LogoComplet_BL.svg",
-      "public\\LogoCreadox\\LogoComplet.svg"
+      "/LogoCreadox/LogoBl - CREADOX.svg",
+      "/LogoCreadox/LogoNB - CREADOX.svg",
+      "/LogoCreadox/LogoComplet_BL.svg",
+      "/LogoCreadox/LogoComplet.svg"
     ],
     "links": {
       "SiteWeb": "dodococo.be/CMS2_REMAKE/wordpress/"
