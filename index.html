@@ -2,20 +2,9 @@
 <html lang="">
   <head>
     <meta charset="UTF-8">
-    <script>
-      (function () {
-        var isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
-        var href = isDark ? '/favicon/LogoBl.svg?v=2' : '/favicon/LogoNB.svg?v=2'
-        var link = document.querySelector("link[rel='icon']")
-        if (!link) {
-          link = document.createElement('link')
-          link.rel = 'icon'
-          document.head.appendChild(link)
-        }
-        link.type = 'image/svg+xml'
-        link.href = href
-      })()
-    </script>
+    <link rel="icon" type="image/svg+xml" href="/favicon/LogoNB.svg?v=3" media="(prefers-color-scheme: light)">
+    <link rel="icon" type="image/svg+xml" href="/favicon/LogoBl.svg?v=3" media="(prefers-color-scheme: dark)">
+    <link rel="shortcut icon" type="image/svg+xml" href="/favicon/LogoNB.svg?v=3">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Creadox</title>
   </head>
