@@ -2,9 +2,22 @@
 <html lang="">
   <head>
     <meta charset="UTF-8">
-    <link rel="icon" href="/favicon.ico">
+    <script>
+      (function () {
+        var isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+        var href = isDark ? '/favicon/LogoBl.svg?v=2' : '/favicon/LogoNB.svg?v=2'
+        var link = document.querySelector("link[rel='icon']")
+        if (!link) {
+          link = document.createElement('link')
+          link.rel = 'icon'
+          document.head.appendChild(link)
+        }
+        link.type = 'image/svg+xml'
+        link.href = href
+      })()
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vite App</title>
+    <title>Creadox</title>
   </head>
   <body>
     <div id="app"></div>
